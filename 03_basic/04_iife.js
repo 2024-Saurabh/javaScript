@@ -13,4 +13,6 @@
 
 ( (name) => {
     console.log(`DB CONNECTED TWO ${name}`);
-})('hitesh')
+})('hitesh') // here hitesh is which is passed to variable name
+
+//if we have to use iife we have use ; to separate them

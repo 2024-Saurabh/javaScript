@@ -7,7 +7,7 @@ function sayMyName(){
     console.log("H")
 }
 
-// sayMyName  //with parenthese it is reference of function
+// sayMyName  //without parenthese it is reference of function
 
 // sayMyName()
 
